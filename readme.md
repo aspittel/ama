@@ -2,22 +2,18 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
-I get a lot of questions by email. This way anyone can read the answer!
+Hey! I'm Ali. I teach people to code full-time. Before that I was a software engineer focusing on building web applications for data science workflows. I'm mostly self-taught -- I took two computer science classes before starting to work in the industry. I also write a [blog](https://zen-of-programming.com/) about programming, so some questions may get longer form answers on there!
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+I get a lot of questions by email and via Twitter DM. This way anyone can read the answer!
 
----
-
-<div align="center">Huge thanks to &nbsp;<a href="https://www.miles.in"><img src="https://user-images.githubusercontent.com/170270/34912034-3332ae4c-f8d6-11e7-8569-65b11486d003.png" width="80"></a>&nbsp; for sponsoring my open source work on <a href="https://www.patreon.com/sindresorhus">Patreon</a>.</div>
-
----
+Feel free to ask me whatever! Work. Life. Code. Etc!
 
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
+- Support questions are better asked on a different platform.
 - Be civil and polite.
 
 ### Links
