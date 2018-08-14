@@ -8,6 +8,13 @@ I get a lot of questions by email and via Twitter DM. This way anyone can read t
 
 Feel free to ask me whatever! Work. Life. Code. Etc!
 
+Find me elsewhere online:
+
+* [Twitter](https://twitter.com/ASpittel)
+* [Instagram](https://www.instagram.com/ali_writes_code/)
+* [Blog](https://zen-of-programming.com/)
+* [dev.to](https://dev.to/aspittel)
+
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
